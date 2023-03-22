@@ -1,0 +1,76 @@
+Response,Predictor(s),F,D.F.,p
+Lignocellulases,Treatment,3.84,"3,10",< 0.001
+,,,,
+Lignocellulases,Total cations,5.21,"1,10",<0.002
+,N:C,3.12,"1,10",0.014
+,Total carbon,2.39,"1,10",0.048
+,% Phosphorous,1.16,"1,9",0.313
+,% Nitrogen,0.81,"1,8",0.547
+,P:C,0.693,"1,7",0.653
+,,,,
+Lignocellulases,Glucose,0.76,"1, 12",0.589
+,,,,
+Lignocellulases,Hemicellulose breakdown products,2.5,"1, 12",0.04
+,,,,
+Lignocellulases,Lignin breakdown products,0.76,"1, 12",0.6
+,,,,
+Lignocellulases,Cellulose,1.4,"1, 12",0.195
+,,,,
+Lignocellulases,Hemicellulose,0.92,"1, 12",0.459
+,,,,
+Lignocellulases,Lignin,0.59,"1, 12",0.697
+,,,,
+Cellulases,Treatment,2.89,"3,10",< 0.001
+,,,,
+Cellulases,Total cations,5.61,"1,10",< 0.001
+,N:C,4.39,"1,10",< 0.001
+,Total carbon,3.69,"1,10",0.002
+,Cellulose,1.4,"1,9",0.203
+,P:C,1.41,"1,8",0.213
+,% Phosphorous,0.95,"1,7",0.459
+,% Nitrogen,1.4,"1,6",0.221
+,,,,
+Cellulases,Cellulose,1.61,"1, 12",0.14
+,,,,
+Cellulases,Glucose,0.99,"1, 12",0.409
+,,,,
+,,,,
+Xylanases,Treatment,2.3,"3, 10",0.036
+,,,,
+Xylanases,Total cations,7.12,"1, 9",< 0.001
+,N:C,4.47,"1, 9",0.008
+,Total carbon,3.61,"1, 9",0.021
+,% Nitrogen,2.86,"1, 9",0.049
+,Hemicellulose,0.88,"1, 8",0.482
+,P:C,-0.28,"1, 7",0.998
+,% Phosphorous,-0.04,"1, 6",0.99
+,,,,
+Xylanases,Hemicellulose,0.919,"1, 12",0.455
+,,,,
+Xylanases,Hemicellulose breakdown products,3.78,"1, 12",0.014
+,,,,
+Xylanases,Fucose,3.68,"1, 12",0.016
+,,,,
+Xylanases,Xylose,2.79,"1, 12",0.05
+,,,,
+Xylanases,"3,6-anhydro-D-Galactose",1.83,"1, 12",0.152
+,,,,
+Auxiliary Activities,Treatment,7.47,"3,10",< 0.001
+,,,,
+Auxiliary Activities,Total cations,15.16,"1, 9",< 0.001
+,N:C,2.9,"1, 9",0.075
+,P:C,0.625,"1, 9",0.545
+,% Nitrogen,0.75,"1, 9",0.462
+,Phosphorous,0.65,"1, 8",0.524
+,Lignin,0.11,"1, 7",0.972
+,Total carbon,0.27,"1, 6",0.857
+,,,,
+Auxiliary Activities,Lignin,0.37,"1, 12",0.787
+,,,,
+Auxiliary Activities,Lignin breakdown products,0.52,"1,12",0.62
+,,,,
+Auxiliary Activities,Vanillic acid,0.68,"1, 12",0.506
+,,,,
+Auxiliary Activities,4-Hydroxybenzoic acid,0.8,"1, 12",0.445
+,,,,
+Auxiliary Activities,Benzoic acid,0.07,"1, 12",0.987
