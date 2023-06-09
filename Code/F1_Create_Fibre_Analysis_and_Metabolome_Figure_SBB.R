@@ -207,7 +207,7 @@ Figure2 <- plot_grid(pf2 + theme(axis.text.x = element_text(size = 6)
                      , ncol = 3, rel_widths = c(1,1,0.46)
                      )
 
-tiff(filename = 'Figures_2023_SBB/Figure_1_Fibre_Analysis_and_Metabolomics.tif'
+tiff(filename = 'Figure_1_Fibre_Analysis_and_Metabolomics.tif'
      , width = 15.5, height = 17
      , units = "cm"
      , res = 600)
