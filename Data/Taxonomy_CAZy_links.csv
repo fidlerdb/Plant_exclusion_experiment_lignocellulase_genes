@@ -1,0 +1,633 @@
+CAZyme,Treatment,Taxonomy,Phylum,CPM,CPM_se,CPM_sd,CPM_s2n,Substrate,Best_classification,Indicator
+AA12,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella;Gardnerella vaginalis,Actinobacteria,0.157477677834268,0.0303812104060881,0.0526218000187848,2.99263190879164,Lignin,Gardnerella vaginalis,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,0.49798974454825,0.110543366287929,0.191466726850389,2.6009205502185,Lignin,Mycobacterium sp. JS623,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;UNASSIGNED;UNASSIGNED,Actinobacteria,0.570226932371343,0.15209927041293,0.263443664149353,2.16451184815007,Lignin,Unassigned Micromonosporaceae,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. endophyte_N2,Actinobacteria,0.0619025823884581,0.0177228822125499,0.0306969324486951,2.0165722582189,Lignin,Streptomyces sp. endophyte_N2,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Bacteroidetes;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Bacteroidetes,0.602563579874217,0.0965927551811859,0.167303559616876,3.6016184070087,Lignin,Unassigned Bacteroidetes,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatirosa;Gemmatirosa kalamazoonesis,Gemmatimonadetes,0.533030763084349,0.194524344170041,0.336926047411526,1.58204082818595,Lignin,Gemmatirosa kalamazoonesis,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea;Bosea sp. Tri-49,Proteobacteria,1.56339898533066,0.0990929291223299,0.171633987910697,9.10891254326686,Lignin,Bosea sp. Tri-49,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.429185979024609,0.0793209240981014,0.137387870641226,3.12390007226608,Lignin,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium japonicum,Proteobacteria,0.406246022927057,0.108219110956694,0.187440998526928,2.16732745834522,Lignin,Bradyrhizobium japonicum,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. CCBAU 51778,Proteobacteria,1.11366002977237,0.716300718060686,1.24066923717918,0.897628470505497,Lignin,Bradyrhizobium sp. CCBAU 51778,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;UNASSIGNED;UNASSIGNED,Proteobacteria,0.318728748891719,0.0405273026308729,0.0701953472503916,4.54059651211343,Lignin,Unassigned Bradyrhizobiaceae,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylocystis;Methylocystis bryophila,Proteobacteria,2.92380980902049,0.526121062273071,0.911268410789068,3.20850561086471,Lignin,Methylocystis bryophila,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,Proteobacteria,0.170638202934985,0.0485226416082192,0.0840436805828913,2.03035138099035,Lignin,Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium leguminosarum,Proteobacteria,0.721395992174038,0.197088412007809,0.341367143180594,2.1132554980325,Lignin,Rhizobium leguminosarum,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.391997675963982,0.0325211224817687,0.0563282364575939,6.95916827183278,Lignin,Unassigned Rhizobiales,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;Pseudolabrys taiwanensis,Proteobacteria,2.05919762792402,0.091030548607307,0.157669535228724,13.060212455988,Lignin,Pseudolabrys taiwanensis,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,2.43093570926492,0.292051480509071,0.505848002667423,4.80566434273969,Lignin,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Pandoraea;Pandoraea pulmonicola,Proteobacteria,0.191074574708887,0.0391204788622219,0.0677586570057926,2.81992859882911,Lignin,Pandoraea pulmonicola,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia xenovorans,Proteobacteria,0.470301701516387,0.130822578966403,0.226591353547001,2.07555007794608,Lignin,Paraburkholderia xenovorans,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;Herbaspirillum sp. meg3,Proteobacteria,0.430368458170988,0.107578786799194,0.186331924552824,2.30968718432886,Lignin,Herbaspirillum sp. meg3,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia plicata,Proteobacteria,0.0364055698503877,0.014396200564522,0.0249349508137039,1.46002172301778,Lignin,Massilia plicata,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia sp. NR 4-1,Proteobacteria,0.0898779856150528,0.0283310502496675,0.0490708184642111,1.83159744279798,Lignin,Massilia sp. NR 4-1,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;UNASSIGNED,Proteobacteria,0.503386556865755,0.0311873190983981,0.0540180212302887,9.31886332377348,Lignin,Unassigned Massilia,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.463268250186234,0.082439177916923,0.142788844686321,3.2444288712045,Lignin,Unassigned Burkholderiales,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Sandaracinaceae;Sandaracinus;Sandaracinus amylolyticus,Proteobacteria,0.253175612004606,0.0681878835290452,0.118104878732895,2.14365075110221,Lignin,Sandaracinus amylolyticus,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae,Proteobacteria,0.393667957634906,0.234740116515173,0.406581808378917,0.968238001607845,Lignin,Klebsiella pneumoniae,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. JS92-SW72,Proteobacteria,1.0692966556351,0.13358766454901,0.231380622263352,4.62137514012757,Lignin,Halomonas sp. JS92-SW72,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae,Proteobacteria,0.0429949801446273,0.0429949801446273,0.0744694900809096,0.577350269189626,Lignin,Pseudomonas syringae,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Lysobacter;Lysobacter antibioticus,Proteobacteria,0.103416187573734,0.006407150921716,0.0110975109281739,9.3188633237734,Lignin,Lysobacter antibioticus,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,1.07790889298793,0.390025795202275,0.675544493552794,1.59561494953358,Lignin,Unassigned Proteobacteria,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,1.24375909107733,0.246826166993298,0.427515461869872,2.90927276790731,Lignin,Unassigned Bacteria,"10-Year
+Bare"
+AA12,10-Year Bare,Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;Opitutus terrae,Verrucomicrobia,0.76462447263676,0.248229453871492,0.429946026040499,1.77841967671713,Lignin,Opitutus terrae,"10-Year
+Bare"
+AA12,10-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Lignin,Unassigned,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella;Gardnerella vaginalis,Actinobacteria,0.293498828427247,0.0535868179567631,0.107173635913526,2.73853570353868,Lignin,Gardnerella vaginalis,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,0.875483397246844,0.127816526164336,0.255633052328671,3.4247660436383,Lignin,Mycobacterium sp. JS623,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;UNASSIGNED;UNASSIGNED,Actinobacteria,0.598266916518017,0.172846664915344,0.345693329830689,1.7306290428312,Lignin,Unassigned Micromonosporaceae,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. endophyte_N2,Actinobacteria,0.120635472100962,0.0314724304597091,0.0629448609194182,1.91652615223662,Lignin,Streptomyces sp. endophyte_N2,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Bacteroidetes;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Bacteroidetes,0.715628622787796,0.0933905371728241,0.186781074345648,3.83137652085397,Lignin,Unassigned Bacteroidetes,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatirosa;Gemmatirosa kalamazoonesis,Gemmatimonadetes,0.124694805126619,0.0124440659932739,0.0248881319865478,5.01021150137011,Lignin,Gemmatirosa kalamazoonesis,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea;Bosea sp. Tri-49,Proteobacteria,1.17808374721753,0.293625222092433,0.587250444184866,2.00610107473443,Lignin,Bosea sp. Tri-49,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.369438684563661,0.0509993247555428,0.101998649511086,3.62199584342055,Lignin,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium japonicum,Proteobacteria,0.192762204943937,0.0445323856539846,0.0890647713079693,2.16429236962167,Lignin,Bradyrhizobium japonicum,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. CCBAU 51778,Proteobacteria,0.0741030352940487,0.0531104440832242,0.106220888166448,0.697631478828618,Lignin,Bradyrhizobium sp. CCBAU 51778,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;UNASSIGNED;UNASSIGNED,Proteobacteria,0.237324185214585,0.077939145201145,0.15587829040229,1.5224967158807,Lignin,Unassigned Bradyrhizobiaceae,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylocystis;Methylocystis bryophila,Proteobacteria,1.63612404190827,0.148190831236074,0.296381662472148,5.5203281750335,Lignin,Methylocystis bryophila,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,Proteobacteria,0.155981078110179,0.0222050493754551,0.0444100987509103,3.51228847711088,Lignin,Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium leguminosarum,Proteobacteria,0.374921835017065,0.0855133484999491,0.171026696999898,2.19218310119903,Lignin,Rhizobium leguminosarum,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.271482301881294,0.119211369843775,0.23842273968755,1.13865943423462,Lignin,Unassigned Rhizobiales,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;Pseudolabrys taiwanensis,Proteobacteria,1.59919253434624,0.0889816844985095,0.177963368997019,8.98607698516329,Lignin,Pseudolabrys taiwanensis,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,2.1876843924612,0.281171028571614,0.562342057143229,3.89030904708591,Lignin,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Pandoraea;Pandoraea pulmonicola,Proteobacteria,0.328411991067927,0.0338115329602479,0.0676230659204958,4.85650845014983,Lignin,Pandoraea pulmonicola,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia xenovorans,Proteobacteria,0.732416515564494,0.180691306001683,0.361382612003367,2.02670657424345,Lignin,Paraburkholderia xenovorans,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;Herbaspirillum sp. meg3,Proteobacteria,0.153928704276115,0.0283034683926677,0.0566069367853354,2.71925514817809,Lignin,Herbaspirillum sp. meg3,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia plicata,Proteobacteria,0.149411057845261,0.0299431979673919,0.0598863959347837,2.49490815924154,Lignin,Massilia plicata,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia sp. NR 4-1,Proteobacteria,0.137886162968571,0.0204444389216763,0.0408888778433526,3.37221685312129,Lignin,Massilia sp. NR 4-1,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;UNASSIGNED,Proteobacteria,0.216154361130495,0.0993192392217231,0.198638478443446,1.08817970629007,Lignin,Unassigned Massilia,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.258666469657397,0.0704754569348157,0.140950913869631,1.83515283836076,Lignin,Unassigned Burkholderiales,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Sandaracinaceae;Sandaracinus;Sandaracinus amylolyticus,Proteobacteria,0.0905103838659287,0.0375828266179583,0.0751656532359167,1.20414551020864,Lignin,Sandaracinus amylolyticus,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae,Proteobacteria,0.180747675237532,0.0868053599479206,0.173610719895841,1.04110895540305,Lignin,Klebsiella pneumoniae,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. JS92-SW72,Proteobacteria,0.940800539935928,0.25833442540198,0.516668850803961,1.82089657325383,Lignin,Halomonas sp. JS92-SW72,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae,Proteobacteria,0.476757949565912,0.067728694062508,0.135457388125016,3.51961569734316,Lignin,Pseudomonas syringae,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Lysobacter;Lysobacter antibioticus,Proteobacteria,0.230866271577101,0.060365739669963,0.120731479339926,1.91222929462402,Lignin,Lysobacter antibioticus,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.568501761880565,0.193468670055409,0.386937340110818,1.46923468724354,Lignin,Unassigned Proteobacteria,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.637281822724878,0.192198294361898,0.384396588723796,1.65787585379118,Lignin,Unassigned Bacteria,"10-Year
+Bare"
+AA12,1-Year Bare,Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;Opitutus terrae,Verrucomicrobia,0.593565972877993,0.359157223578958,0.718314447157916,0.826331664672062,Lignin,Opitutus terrae,"10-Year
+Bare"
+AA12,1-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Lignin,Unassigned,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella;Gardnerella vaginalis,Actinobacteria,0.314547221310985,0.057563069996108,0.115126139992216,2.73219636593612,Lignin,Gardnerella vaginalis,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,0.72262971581968,0.0882351505205971,0.176470301041194,4.09490838716819,Lignin,Mycobacterium sp. JS623,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;UNASSIGNED;UNASSIGNED,Actinobacteria,0.593083034510123,0.195597920943207,0.391195841886415,1.51607704123381,Lignin,Unassigned Micromonosporaceae,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. endophyte_N2,Actinobacteria,0.128629631028084,0.0215164218308183,0.0430328436616366,2.98910367252247,Lignin,Streptomyces sp. endophyte_N2,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Bacteroidetes;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Bacteroidetes,0.705046461846751,0.131589284491851,0.263178568983701,2.67896608971385,Lignin,Unassigned Bacteroidetes,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatirosa;Gemmatirosa kalamazoonesis,Gemmatimonadetes,0.0821002784021123,0.0218627630099313,0.0437255260198626,1.87762814711063,Lignin,Gemmatirosa kalamazoonesis,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea;Bosea sp. Tri-49,Proteobacteria,2.07817084925117,0.591375542403174,1.18275108480635,1.75706526584283,Lignin,Bosea sp. Tri-49,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.258763754054509,0.0296449041820617,0.0592898083641233,4.36438843696936,Lignin,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium japonicum,Proteobacteria,0.169686773660864,0.0653433871459134,0.130686774291827,1.29842346006605,Lignin,Bradyrhizobium japonicum,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. CCBAU 51778,Proteobacteria,0.3301865855232,0.171329342464123,0.342658684928245,0.963601974928325,Lignin,Bradyrhizobium sp. CCBAU 51778,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;UNASSIGNED;UNASSIGNED,Proteobacteria,0.200875802110082,0.0477532334256958,0.0955064668513916,2.10326911603426,Lignin,Unassigned Bradyrhizobiaceae,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylocystis;Methylocystis bryophila,Proteobacteria,1.19836348114662,0.334708464263735,0.669416928527469,1.79016010811481,Lignin,Methylocystis bryophila,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,Proteobacteria,0.26631462591684,0.0809899026132317,0.161979805226463,1.6441223987429,Lignin,Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium leguminosarum,Proteobacteria,0.196460639398298,0.0670893164435452,0.13417863288709,1.46417231396013,Lignin,Rhizobium leguminosarum,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.204186918891146,0.112149048414732,0.224298096829464,0.91033727783429,Lignin,Unassigned Rhizobiales,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;Pseudolabrys taiwanensis,Proteobacteria,1.55958993133872,0.0869279099436642,0.173855819887328,8.97059375032396,Lignin,Pseudolabrys taiwanensis,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,1.45717093451123,0.276818358353955,0.55363671670791,2.63199836740598,Lignin,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Pandoraea;Pandoraea pulmonicola,Proteobacteria,0.286747071274363,0.0636595631316456,0.127319126263291,2.25219163601061,Lignin,Pandoraea pulmonicola,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia xenovorans,Proteobacteria,0.482827301653115,0.070373924966436,0.140747849932872,3.43044175725167,Lignin,Paraburkholderia xenovorans,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;Herbaspirillum sp. meg3,Proteobacteria,0.221023952963256,0.036618948045164,0.0732378960903281,3.01789052884118,Lignin,Herbaspirillum sp. meg3,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia plicata,Proteobacteria,0.167986046899574,0.0452869880289138,0.0905739760578275,1.85468336724361,Lignin,Massilia plicata,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia sp. NR 4-1,Proteobacteria,0.106886650187397,0.0379512697868211,0.0759025395736422,1.40820914277437,Lignin,Massilia sp. NR 4-1,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;UNASSIGNED,Proteobacteria,0.389825078925849,0.134322462880212,0.268644925760425,1.4510792557217,Lignin,Unassigned Massilia,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.200478954554008,0.125724628417927,0.251449256835855,0.79729388377107,Lignin,Unassigned Burkholderiales,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Sandaracinaceae;Sandaracinus;Sandaracinus amylolyticus,Proteobacteria,0.0544175053418543,0.00736325778901635,0.0147265155780327,3.69520577040152,Lignin,Sandaracinus amylolyticus,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae,Proteobacteria,0.0994804015201863,0.0517623512409825,0.103524702481965,0.960933952333905,Lignin,Klebsiella pneumoniae,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. JS92-SW72,Proteobacteria,1.32739973734639,0.295759999247524,0.591519998495048,2.24404879078234,Lignin,Halomonas sp. JS92-SW72,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae,Proteobacteria,0.729649293272263,0.147019793490839,0.294039586981679,2.48146618882894,Lignin,Pseudomonas syringae,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Lysobacter;Lysobacter antibioticus,Proteobacteria,0.200555037502072,0.141650402218855,0.28330080443771,0.707922583912638,Lignin,Lysobacter antibioticus,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.827193504190237,0.251416445719818,0.502832891439636,1.64506641922715,Lignin,Unassigned Proteobacteria,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.629522930871944,0.0299797879446669,0.0599595758893338,10.4991224760135,Lignin,Unassigned Bacteria,"10-Year
+Bare"
+AA12,1-Year Grassland,Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;Opitutus terrae,Verrucomicrobia,0.824173983414057,0.180163915276929,0.360327830553858,2.28728927806443,Lignin,Opitutus terrae,"10-Year
+Bare"
+AA12,1-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Lignin,Unassigned,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella;Gardnerella vaginalis,Actinobacteria,0.16425546835823,0.0620943562977313,0.107550579970955,1.52723926177421,Lignin,Gardnerella vaginalis,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,0.708337473857529,0.0575482769687442,0.0996765395979107,7.10636100244772,Lignin,Mycobacterium sp. JS623,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;UNASSIGNED;UNASSIGNED,Actinobacteria,0.440462884377221,0.20494007020449,0.354966614100909,1.24085721552396,Lignin,Unassigned Micromonosporaceae,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. endophyte_N2,Actinobacteria,0.190759602008476,0.0479317688964453,0.0830202590252929,2.29774761302972,Lignin,Streptomyces sp. endophyte_N2,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Bacteroidetes;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Bacteroidetes,0.502518876661797,0.134216090604618,0.232469088120465,2.16165891441615,Lignin,Unassigned Bacteroidetes,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatirosa;Gemmatirosa kalamazoonesis,Gemmatimonadetes,0.0532064648381706,0.0118082366062226,0.0204524657497723,2.60146945063399,Lignin,Gemmatirosa kalamazoonesis,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea;Bosea sp. Tri-49,Proteobacteria,2.13377854429333,0.762435853388293,1.32057763558066,1.61579182230745,Lignin,Bosea sp. Tri-49,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.400615658949317,0.0746390025732836,0.129278544683191,3.09885650345973,Lignin,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium japonicum,Proteobacteria,0.594655788250169,0.2344601403852,0.406096875496899,1.4643200283739,Lignin,Bradyrhizobium japonicum,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. CCBAU 51778,Proteobacteria,0.0316858425835504,0.0316858425835504,0.0548814892353389,0.577350269189626,Lignin,Bradyrhizobium sp. CCBAU 51778,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;UNASSIGNED;UNASSIGNED,Proteobacteria,0.0745729281135083,0.0440875954231319,0.0763619552564055,0.976571747843673,Lignin,Unassigned Bradyrhizobiaceae,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylocystis;Methylocystis bryophila,Proteobacteria,0.797650112714099,0.247662811549013,0.428964572748247,1.85947782961142,Lignin,Methylocystis bryophila,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,Proteobacteria,0.184296633398785,0.0194726253105545,0.033727576394632,5.4642714686169,Lignin,Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium leguminosarum,Proteobacteria,0.189156211586009,0.0663197740809292,0.114869218254659,1.64670931394919,Lignin,Rhizobium leguminosarum,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.230608770335434,0.124107259736716,0.214960079452139,1.07279812569468,Lignin,Unassigned Rhizobiales,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;Pseudolabrys taiwanensis,Proteobacteria,2.41164525606029,0.368275480437591,0.637871843299745,3.78076769086517,Lignin,Pseudolabrys taiwanensis,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,2.87103945459531,0.704646776102949,1.22048401759992,2.35237775603257,Lignin,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Pandoraea;Pandoraea pulmonicola,Proteobacteria,0.355040958351208,0.0487945575549727,0.0845146528180565,4.20093967747275,Lignin,Pandoraea pulmonicola,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia xenovorans,Proteobacteria,0.811635753441533,0.0905774286136291,0.156884708377749,5.17345356239098,Lignin,Paraburkholderia xenovorans,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;Herbaspirillum sp. meg3,Proteobacteria,0.622537863321679,0.115751284792815,0.200487106302531,3.10512668272185,Lignin,Herbaspirillum sp. meg3,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia plicata,Proteobacteria,0.146506514223923,0.0291263167521229,0.0504482604520214,2.90409447047747,Lignin,Massilia plicata,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia sp. NR 4-1,Proteobacteria,0.266417741813014,0.0514248068013738,0.089070378149393,2.99109251973946,Lignin,Massilia sp. NR 4-1,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;UNASSIGNED,Proteobacteria,0.38600153433629,0.0968299316293577,0.167714361275468,2.30154133134901,Lignin,Unassigned Massilia,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.15968828930805,0.0354399998031747,0.0613838802793296,2.60146945063399,Lignin,Unassigned Burkholderiales,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Sandaracinaceae;Sandaracinus;Sandaracinus amylolyticus,Proteobacteria,0.0824681891885045,0.0527490863742994,0.0913640976531256,0.90263233925436,Lignin,Sandaracinus amylolyticus,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae,Proteobacteria,0.0867778896370592,0.0286246410713018,0.0495793326839175,1.75028353427613,Lignin,Klebsiella pneumoniae,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. JS92-SW72,Proteobacteria,1.29021556230226,0.285345157710109,0.494232310847663,2.61054474582893,Lignin,Halomonas sp. JS92-SW72,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae,Proteobacteria,0.290416679305473,0.228842861530698,0.396367463120619,0.73269555734724,Lignin,Pseudomonas syringae,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Lysobacter;Lysobacter antibioticus,Proteobacteria,0.177052411166025,0.0322438764141062,0.0558480321822037,3.17025335088608,Lignin,Lysobacter antibioticus,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.828730474043402,0.352889117940348,0.611221881710848,1.3558586478019,Lignin,Unassigned Proteobacteria,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.95391794049754,0.382106433199975,0.661827756201279,1.44133867393653,Lignin,Unassigned Bacteria,"10-Year
+Bare"
+AA12,10-Year Grassland,Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;Opitutus terrae,Verrucomicrobia,2.54706130123847,1.41523599535825,2.45126064866079,1.03908219741137,Lignin,Opitutus terrae,"10-Year
+Bare"
+AA12,10-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Lignin,Unassigned,"10-Year
+Bare"
+CBM2|GH5_1,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus contaminans,Proteobacteria,0.426257016382057,0.207564556311952,0.359512357382793,1.18565330962517,Cellulose,Paracoccus contaminans,"10-Year
+Bare"
+CBM2|GH5_1,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus contaminans,Proteobacteria,0.162538360533925,0.05153428878936,0.10306857757872,1.57699237102389,Cellulose,Paracoccus contaminans,"10-Year
+Bare"
+CBM2|GH5_1,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus contaminans,Proteobacteria,0.185330183881002,0.0423103827409675,0.0846207654819351,2.19012653484642,Cellulose,Paracoccus contaminans,"10-Year
+Bare"
+CBM2|GH5_1,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;Paracoccus contaminans,Proteobacteria,0.194609273757689,0.106171922567293,0.18389516422382,1.0582620515286,Cellulose,Paracoccus contaminans,"10-Year
+Bare"
+CBM4|GH9,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas;Cellulomonas flavigena,Actinobacteria,0.260072103586025,0.135719399353825,0.235072895253556,1.10634662199359,Cellulose,Cellulomonas flavigena,"1-Year
+Bare"
+CBM4|GH9,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas;Cellulomonas flavigena,Actinobacteria,0.529757520970359,0.154830843783084,0.309661687566168,1.71076223582603,Cellulose,Cellulomonas flavigena,"1-Year
+Bare"
+CBM4|GH9,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas;Cellulomonas flavigena,Actinobacteria,0.234040629817929,0.0180580369847217,0.0361160739694434,6.48023453534687,Cellulose,Cellulomonas flavigena,"1-Year
+Bare"
+CBM4|GH9,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas;Cellulomonas flavigena,Actinobacteria,0.0362266840013541,0.0188468102249241,0.0326436328701772,1.10976263412306,Cellulose,Cellulomonas flavigena,"1-Year
+Bare"
+CBM60|GH11,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.0187738513968275,0.012025679753569,0.0208290883287338,0.901328521946342,Xylan,Unassigned Burkholderia,"1-Year
+Grassland"
+CBM60|GH11,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.191792368192116,0.0466308558216525,0.0932617116433051,2.05649633501965,Xylan,Unassigned Burkholderia,"1-Year
+Grassland"
+CBM60|GH11,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.170220079613078,0.0227710229226321,0.0455420458452643,3.73764674936706,Xylan,Unassigned Burkholderia,"1-Year
+Grassland"
+CBM60|GH11,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.203210211715413,0.0214710178858796,0.0371888938685636,5.46427146861686,Xylan,Unassigned Burkholderia,"1-Year
+Grassland"
+GH30,10-Year Bare,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Candidatus Koribacter;Candidatus Koribacter versatilis,Acidobacteria,0.294008063046462,0.147532489286519,0.255533767211362,1.15056442933147,Xylan,Candidatus Koribacter versatilis,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes friuliensis,Actinobacteria,0.365611149331069,0.0789159408443508,0.136686419069516,2.6748169409949,Xylan,Actinoplanes friuliensis,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes sp. N902-109,Actinobacteria,0.376626902170289,0.14374471748094,0.248973153996621,1.51272093446428,Xylan,Actinoplanes sp. N902-109,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces gilvosporeus,Actinobacteria,0.0184044481944288,0.0184044481944288,0.03187743935802,0.577350269189626,Xylan,Streptomyces gilvosporeus,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. CCM_MD2014,Actinobacteria,0.224982971333878,0.0139388222092839,0.0241427482641492,9.3188633237736,Xylan,Streptomyces sp. CCM_MD2014,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Paludibacteraceae;Paludibacter;Paludibacter propionicigenes,Bacteroidetes,0.0930890576384093,0.0930890576384093,0.161234977458433,0.577350269189626,Xylan,Paludibacter propionicigenes,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Chryseobacterium;Chryseobacterium gleum,Bacteroidetes,0.157986470209859,0.0472444969173512,0.0818298690388834,1.93066996275881,Xylan,Chryseobacterium gleum,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium;UNASSIGNED,Firmicutes,0.0233017603087273,0.0233017603087273,0.0403598327605075,0.577350269189626,Xylan,Unassigned Clostridium,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;Caulobacter sp. K31,Proteobacteria,0.168793175048873,0.0260283702306795,0.0450824596777502,3.74409861962741,Xylan,Caulobacter sp. K31,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium ottawaense,Proteobacteria,0.0348813374591877,0.0348813374591877,0.0604162487152685,0.577350269189626,Xylan,Bradyrhizobium ottawaense,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylosinus;Methylosinus trichosporium,Proteobacteria,0.520207451336546,0.0571778055948149,0.0990348643555154,5.25277087742662,Xylan,Methylosinus trichosporium,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,Proteobacteria,0.944031899210835,0.158334301114196,0.274243054110697,3.44231835614615,Xylan,Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter litoralis,Proteobacteria,0.946440391603368,0.535175686257339,0.926951479573252,1.02102473803601,Xylan,Erythrobacter litoralis,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.216611293529092,0.0824507693912094,0.14280892170872,1.51679104454625,Xylan,Unassigned Burkholderia,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia putida,Proteobacteria,0.673187139301277,0.378087448292498,0.654866670146678,1.02797587660171,Xylan,Massilia putida,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Archangiaceae;Stigmatella;Stigmatella aurantiaca,Proteobacteria,1.80426788567014,0.215156822200832,0.372662547646904,4.84155946730573,Xylan,Stigmatella aurantiaca,"10-Year
+Bare"
+GH30,10-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.358315241452655,0.0221994243203116,0.03845053082156,9.31886332377344,Xylan,Unassigned Bacteria,"10-Year
+Bare"
+GH30,10-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Xylan,Unassigned,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Candidatus Koribacter;Candidatus Koribacter versatilis,Acidobacteria,0.145658753040842,0.101597424433051,0.203194848866102,0.716842744063981,Xylan,Candidatus Koribacter versatilis,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes friuliensis,Actinobacteria,0.508080447173774,0.106380340284707,0.212760680569413,2.38803732820366,Xylan,Actinoplanes friuliensis,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes sp. N902-109,Actinobacteria,0.905196403196442,0.0925634331808682,0.185126866361736,4.88960041827584,Xylan,Actinoplanes sp. N902-109,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces gilvosporeus,Actinobacteria,0.535682050046214,0.356730590251773,0.713461180503547,0.750821578923383,Xylan,Streptomyces gilvosporeus,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. CCM_MD2014,Actinobacteria,0.23602687762939,0.0334958605933026,0.0669917211866051,3.52322456340445,Xylan,Streptomyces sp. CCM_MD2014,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Paludibacteraceae;Paludibacter;Paludibacter propionicigenes,Bacteroidetes,0.4944775990446,0.407906952079799,0.815813904159599,0.606115679719851,Xylan,Paludibacter propionicigenes,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Chryseobacterium;Chryseobacterium gleum,Bacteroidetes,0.781904034780501,0.308064740248446,0.616129480496893,1.26905798136768,Xylan,Chryseobacterium gleum,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium;UNASSIGNED,Firmicutes,0.314438559137963,0.100772144659654,0.201544289319308,1.56014621004615,Xylan,Unassigned Clostridium,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;Caulobacter sp. K31,Proteobacteria,0.179152944349146,0.0242378816136846,0.0484757632273692,3.69572199428511,Xylan,Caulobacter sp. K31,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium ottawaense,Proteobacteria,0.216234382056415,0.122997276267648,0.245994552535297,0.879021018261728,Xylan,Bradyrhizobium ottawaense,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylosinus;Methylosinus trichosporium,Proteobacteria,0.0832306148569096,0.0269631769556477,0.0539263539112955,1.54341261405912,Xylan,Methylosinus trichosporium,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,Proteobacteria,0.261333803519223,0.15811615898919,0.31623231797838,0.826398153072671,Xylan,Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter litoralis,Proteobacteria,0.350641768101472,0.0884446442436762,0.176889288487352,1.982266824068,Xylan,Erythrobacter litoralis,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.0901845505857252,0.0167140605317677,0.0334281210635353,2.69786478319602,Xylan,Unassigned Burkholderia,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia putida,Proteobacteria,0.117977793623639,0.00668468912814841,0.0133693782562968,8.82447869765915,Xylan,Massilia putida,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Archangiaceae;Stigmatella;Stigmatella aurantiaca,Proteobacteria,0.483361395020502,0.13491813942968,0.269836278859359,1.79131359602107,Xylan,Stigmatella aurantiaca,"10-Year
+Bare"
+GH30,1-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.610916620132215,0.15723930863072,0.31447861726144,1.94263325580681,Xylan,Unassigned Bacteria,"10-Year
+Bare"
+GH30,1-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Xylan,Unassigned,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Candidatus Koribacter;Candidatus Koribacter versatilis,Acidobacteria,0.0335838309472078,0.0335838309472078,0.0671676618944155,0.5,Xylan,Candidatus Koribacter versatilis,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes friuliensis,Actinobacteria,0.341353481297493,0.0458302833254321,0.0916605666508642,3.7241039824433,Xylan,Actinoplanes friuliensis,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes sp. N902-109,Actinobacteria,0.638686648691136,0.238357075191929,0.476714150383859,1.33976859754814,Xylan,Actinoplanes sp. N902-109,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces gilvosporeus,Actinobacteria,1.07371421146544,0.117975434510766,0.235950869021532,4.55058383941554,Xylan,Streptomyces gilvosporeus,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. CCM_MD2014,Actinobacteria,0.2437574581858,0.112560962337618,0.225121924675236,1.08277973608056,Xylan,Streptomyces sp. CCM_MD2014,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Paludibacteraceae;Paludibacter;Paludibacter propionicigenes,Bacteroidetes,0.436570217635365,0.233652053584218,0.467304107168436,0.934231501367924,Xylan,Paludibacter propionicigenes,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Chryseobacterium;Chryseobacterium gleum,Bacteroidetes,0.298948345989585,0.125025171066644,0.250050342133287,1.19555263727747,Xylan,Chryseobacterium gleum,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium;UNASSIGNED,Firmicutes,0.281404691652096,0.0878405626149524,0.175681125229905,1.60179240247828,Xylan,Unassigned Clostridium,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;Caulobacter sp. K31,Proteobacteria,0.133683253075188,0.0234533302379865,0.046906660475973,2.84998445249934,Xylan,Caulobacter sp. K31,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium ottawaense,Proteobacteria,0.362301769231925,0.189529498809735,0.37905899761947,0.955792558697241,Xylan,Bradyrhizobium ottawaense,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylosinus;Methylosinus trichosporium,Proteobacteria,0.136804824932041,0.0580573449103581,0.116114689820716,1.17818705921938,Xylan,Methylosinus trichosporium,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,Proteobacteria,0.151700194417454,0.0432077672473485,0.0864155344946969,1.7554736576531,Xylan,Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter litoralis,Proteobacteria,0.881426556065053,0.267624480732347,0.535248961464693,1.64675995569063,Xylan,Erythrobacter litoralis,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.0897163976699514,0.0174938171047352,0.0349876342094704,2.56423161202672,Xylan,Unassigned Burkholderia,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia putida,Proteobacteria,0.028487243183654,0.028487243183654,0.056974486367308,0.5,Xylan,Massilia putida,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Archangiaceae;Stigmatella;Stigmatella aurantiaca,Proteobacteria,0.444173308835011,0.0976588302443998,0.1953176604888,2.27410725544955,Xylan,Stigmatella aurantiaca,"10-Year
+Bare"
+GH30,1-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.610987282265239,0.221473041088385,0.442946082176769,1.37937168167887,Xylan,Unassigned Bacteria,"10-Year
+Bare"
+GH30,1-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Xylan,Unassigned,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Candidatus Koribacter;Candidatus Koribacter versatilis,Acidobacteria,1.00170957360411,0.634728822114472,1.09938256893061,0.911156499942041,Xylan,Candidatus Koribacter versatilis,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes friuliensis,Actinobacteria,0.393955713536379,0.0677411803577553,0.117331166144319,3.35763912080962,Xylan,Actinoplanes friuliensis,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes;Actinoplanes sp. N902-109,Actinobacteria,0.432117440112793,0.22207868001805,0.384651557069094,1.12339969037269,Xylan,Actinoplanes sp. N902-109,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces gilvosporeus,Actinobacteria,0.293649657552672,0.206468138513006,0.357613306048695,0.821137392221883,Xylan,Streptomyces gilvosporeus,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. CCM_MD2014,Actinobacteria,0.264630198360845,0.00639221690896346,0.0110716444593256,23.9016163617816,Xylan,Streptomyces sp. CCM_MD2014,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Paludibacteraceae;Paludibacter;Paludibacter propionicigenes,Bacteroidetes,0.423820152737201,0.283431889569561,0.490918433219731,0.863320918624996,Xylan,Paludibacter propionicigenes,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Chryseobacterium;Chryseobacterium gleum,Bacteroidetes,0.346802946657174,0.0631579727066015,0.109392817630882,3.17025335088608,Xylan,Chryseobacterium gleum,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium;UNASSIGNED,Firmicutes,0.330648382055667,0.230946160441034,0.400010483696825,0.826599290598272,Xylan,Unassigned Clostridium,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;Caulobacter sp. K31,Proteobacteria,0.151712847557027,0.0061870674058746,0.0107163150968282,14.1571842733451,Xylan,Caulobacter sp. K31,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium ottawaense,Proteobacteria,1.01636902192665,0.165887970182961,0.28732639272136,3.53733262127538,Xylan,Bradyrhizobium ottawaense,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylosinus;Methylosinus trichosporium,Proteobacteria,0.155509711113921,0.102740297322617,0.177951414947505,0.873888590095198,Xylan,Methylosinus trichosporium,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,Proteobacteria,0.306262334155498,0.127782206380776,0.221325273754756,1.38376575327253,Xylan,Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;Erythrobacter litoralis,Proteobacteria,0.407909351911117,0.148719860595947,0.257590354646741,1.58355833032073,Xylan,Erythrobacter litoralis,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;UNASSIGNED,Proteobacteria,0.0904854245834619,0.0190663063103645,0.0330238112422223,2.74000550450617,Xylan,Unassigned Burkholderia,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia putida,Proteobacteria,0.316944847735284,0.159691993449419,0.276594646216349,1.14588207715117,Xylan,Massilia putida,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Archangiaceae;Stigmatella;Stigmatella aurantiaca,Proteobacteria,0.980064653550421,0.119649695608453,0.207239351903991,4.7291435943327,Xylan,Stigmatella aurantiaca,"10-Year
+Bare"
+GH30,10-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.506074077368933,0.205604697565082,0.356117782457556,1.42108623129273,Xylan,Unassigned Bacteria,"10-Year
+Bare"
+GH30,10-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Xylan,Unassigned,"10-Year
+Bare"
+GH30_2,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia pyrrocinia,Proteobacteria,0.217621750845442,0.121686351639024,0.210766943626482,1.03252316089523,Xylan,Burkholderia pyrrocinia,"1-Year
+Bare"
+GH30_2,10-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.0850987392520767,0.0580525420499088,0.100549952338971,0.846332964586544,Xylan,Unassigned Bacteria,"1-Year
+Bare"
+GH30_2,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia pyrrocinia,Proteobacteria,0.660312395629392,0.318463969924567,0.636927939849134,1.03671444494301,Xylan,Burkholderia pyrrocinia,"1-Year
+Bare"
+GH30_2,1-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.276855321080698,0.0743826121955598,0.14876522439112,1.8610217691254,Xylan,Unassigned Bacteria,"1-Year
+Bare"
+GH30_2,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia pyrrocinia,Proteobacteria,0.178639581595307,0.0900322544648371,0.180064508929674,0.992086573068522,Xylan,Burkholderia pyrrocinia,"1-Year
+Bare"
+GH30_2,1-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.441692845364648,0.170328827530354,0.340657655060709,1.29658863907207,Xylan,Unassigned Bacteria,"1-Year
+Bare"
+GH30_2,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia pyrrocinia,Proteobacteria,0.0739147494229136,0.0379010061350312,0.0656464682838538,1.12595165216365,Xylan,Burkholderia pyrrocinia,"1-Year
+Bare"
+GH30_2,10-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.768578260393872,0.16503709198874,0.285852628457917,2.68872203323827,Xylan,Unassigned Bacteria,"1-Year
+Bare"
+GH30_4,10-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.0903123333333333,0.0903123333333333,0.15642554988343,0.577350269189626,Xylan,Unassigned,"1-Year
+Bare"
+GH30_4,1-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.20938955,0.0794570759915325,0.158914151983065,1.31762682798895,Xylan,Unassigned,"1-Year
+Bare"
+GH30_4,1-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0,0,0,0.01,Xylan,Unassigned,"1-Year
+Bare"
+GH30_4,10-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0,0,0,0.01,Xylan,Unassigned,"1-Year
+Bare"
+GH45,10-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus necator,Proteobacteria,0.0245036503846273,0.0245036503846273,0.0424415674370791,0.577350269189626,Cellulose,Cupriavidus necator,"1-Year
+Grassland"
+GH45,1-Year Bare,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus necator,Proteobacteria,0.222436572646386,0.145699432922846,0.291398865845693,0.763340557283345,Cellulose,Cupriavidus necator,"1-Year
+Grassland"
+GH45,1-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus necator,Proteobacteria,0.578289559173785,0.217845802453825,0.435691604907649,1.32729103030654,Cellulose,Cupriavidus necator,"1-Year
+Grassland"
+GH45,10-Year Grassland,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus necator,Proteobacteria,0.0524913125968806,0.0262950330650662,0.0455443332553983,1.15253224374865,Cellulose,Cupriavidus necator,"1-Year
+Grassland"
+GH5,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis mediterranei,Actinobacteria,0.257233526822893,0.143835849480633,0.249130999250286,1.03252316089523,Cellulose,Amycolatopsis mediterranei,"1-Year
+Bare"
+GH5,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Actinobacteria,0.740888038904378,0.232191655255871,0.402167743996685,1.84223635526196,Cellulose,Unassigned Actinobacteria,"1-Year
+Bare"
+GH5,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis mediterranei,Actinobacteria,1.24445818873716,0.546496874660678,1.09299374932136,1.13857758977108,Cellulose,Amycolatopsis mediterranei,"1-Year
+Bare"
+GH5,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Actinobacteria,1.36879736816831,0.255653756955728,0.511307513911455,2.6770531058641,Cellulose,Unassigned Actinobacteria,"1-Year
+Bare"
+GH5,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis mediterranei,Actinobacteria,0.278164435779228,0.0757528180430205,0.151505636086041,1.83600058034314,Cellulose,Amycolatopsis mediterranei,"1-Year
+Bare"
+GH5,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Actinobacteria,1.02564203214423,0.235368616742705,0.470737233485411,2.17879946430032,Cellulose,Unassigned Actinobacteria,"1-Year
+Bare"
+GH5,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis mediterranei,Actinobacteria,0.0353515580475057,0.0353515580475057,0.0612306946650002,0.577350269189626,Cellulose,Amycolatopsis mediterranei,"1-Year
+Bare"
+GH5,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Actinobacteria,0.590696820586737,0.147058381914713,0.25471258915515,2.319071949078,Cellulose,Unassigned Actinobacteria,"1-Year
+Bare"
+GH5_19,10-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.33101712883272,0.0412409048793267,0.071431342601109,4.63406001874002,Cellulose,Unassigned Bacteria,"10-Year
+Bare"
+GH5_19,1-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.140141523070176,0.0294747004065591,0.0589494008131181,2.37731887240812,Cellulose,Unassigned Bacteria,"10-Year
+Bare"
+GH5_19,1-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.178975016593149,0.0365765094751099,0.0731530189502198,2.44658414869987,Cellulose,Unassigned Bacteria,"10-Year
+Bare"
+GH5_19,10-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.172816899792042,0.0282380216215618,0.0489096881537736,3.53338788930121,Cellulose,Unassigned Bacteria,"10-Year
+Bare"
+GH5_25,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;UNASSIGNED,Actinobacteria,0.429217297535614,0.0665841668195361,0.115327159911078,3.72173647444849,Cellulose,Unassigned Rhodococcus,"10-Year
+Bare"
+GH5_25,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;UNASSIGNED,Proteobacteria,0.202749107191746,0.129112996964632,0.223630270660229,0.906626399874957,Cellulose,Unassigned Bradyrhizobium,"10-Year
+Bare"
+GH5_25,10-Year Bare,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.388996668855329,0.0241002924578305,0.0417429310142314,9.31886332377352,Cellulose,Unassigned Proteobacteria,"10-Year
+Bare"
+GH5_25,10-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Bare"
+GH5_25,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;UNASSIGNED,Actinobacteria,0.078413919235125,0.0141582669956396,0.0283165339912792,2.76919199430532,Cellulose,Unassigned Rhodococcus,"10-Year
+Bare"
+GH5_25,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;UNASSIGNED,Proteobacteria,0.363878241229313,0.172752120645808,0.345504241291617,1.05318024423957,Cellulose,Unassigned Bradyrhizobium,"10-Year
+Bare"
+GH5_25,1-Year Bare,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.186738390571688,0.033361197226625,0.06672239445325,2.79873634784688,Cellulose,Unassigned Proteobacteria,"10-Year
+Bare"
+GH5_25,1-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Bare"
+GH5_25,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;UNASSIGNED,Actinobacteria,0.112895657756673,0.0537048406760427,0.107409681352085,1.0510752507179,Cellulose,Unassigned Rhodococcus,"10-Year
+Bare"
+GH5_25,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;UNASSIGNED,Proteobacteria,0.363259583506793,0.181232820293899,0.362465640587798,1.00219039497842,Cellulose,Unassigned Bradyrhizobium,"10-Year
+Bare"
+GH5_25,1-Year Grassland,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.205567206344186,0.0379924503297995,0.0759849006595991,2.70536915307814,Cellulose,Unassigned Proteobacteria,"10-Year
+Bare"
+GH5_25,1-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Bare"
+GH5_25,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;UNASSIGNED,Actinobacteria,0.0430908701460052,0.00455294463704761,0.00788593143541471,5.46427146861684,Cellulose,Unassigned Rhodococcus,"10-Year
+Bare"
+GH5_25,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;UNASSIGNED,Proteobacteria,0.216520202555196,0.139966707746979,0.242429449185912,0.893126653062487,Cellulose,Unassigned Bradyrhizobium,"10-Year
+Bare"
+GH5_25,10-Year Grassland,Bacteria;Proteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.155110913896536,0.0163888870468366,0.0283863850446284,5.46427146861687,Cellulose,Unassigned Proteobacteria,"10-Year
+Bare"
+GH5_25,10-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Bare"
+GH5_35,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Micromonospora;Micromonospora zamorensis,Actinobacteria,0,0,0,0.01,Cellulose,Micromonospora zamorensis,"10-Year
+Grassland"
+GH5_35,10-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Grassland"
+GH5_35,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Micromonospora;Micromonospora zamorensis,Actinobacteria,0.191464202964039,0.0418225890481095,0.083645178096219,2.28900466616012,Cellulose,Micromonospora zamorensis,"10-Year
+Grassland"
+GH5_35,1-Year Bare,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Grassland"
+GH5_35,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Micromonospora;Micromonospora zamorensis,Actinobacteria,0.444242528850666,0.0597426884457318,0.119485376891464,3.71796566582537,Cellulose,Micromonospora zamorensis,"10-Year
+Grassland"
+GH5_35,1-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Grassland"
+GH5_35,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Micromonospora;Micromonospora zamorensis,Actinobacteria,0.813397692815936,0.285184138407073,0.493953417233806,1.64670931394919,Cellulose,Micromonospora zamorensis,"10-Year
+Grassland"
+GH5_35,10-Year Grassland,UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,,,,,Cellulose,Unassigned,"10-Year
+Grassland"
+GH5_46,10-Year Bare,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella mallensis,Acidobacteria,0.070151275316525,0.0432201412518663,0.0748594805585359,0.937106092549903,Cellulose,Granulicella mallensis,"10-Year
+Bare"
+GH5_46,10-Year Bare,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella tundricola,Acidobacteria,0,0,0,0.01,Cellulose,Granulicella tundricola,"10-Year
+Bare"
+GH5_46,10-Year Bare,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter paludis,Bacteroidetes,0.376038353335125,0.306032302914828,0.530063497405791,0.709421333812858,Cellulose,Mucilaginibacter paludis,"10-Year
+Bare"
+GH5_46,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.737179910280041,0.240522283932378,0.416596816123387,1.76952843072546,Cellulose,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+GH5_46,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. S23321,Proteobacteria,2.0998638152179,0.244858430335271,0.424107242002254,4.9512566805137,Cellulose,Bradyrhizobium sp. S23321,"10-Year
+Bare"
+GH5_46,10-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.772385136587709,0.463115614449286,0.802139774004642,0.962905919415535,Cellulose,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+GH5_46,1-Year Bare,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella mallensis,Acidobacteria,0.310465415724424,0.108645154697025,0.217290309394051,1.4288047018305,Cellulose,Granulicella mallensis,"10-Year
+Bare"
+GH5_46,1-Year Bare,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella tundricola,Acidobacteria,0.182207943320164,0.105275456561699,0.210550913123398,0.865386621303215,Cellulose,Granulicella tundricola,"10-Year
+Bare"
+GH5_46,1-Year Bare,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter paludis,Bacteroidetes,0.104096261641394,0.0347385074211412,0.0694770148422824,1.4982834521273,Cellulose,Mucilaginibacter paludis,"10-Year
+Bare"
+GH5_46,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.418432683578555,0.0949291566563728,0.189858313312746,2.20392078849499,Cellulose,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+GH5_46,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. S23321,Proteobacteria,0.361942020135059,0.10049459346319,0.200989186926379,1.80080344455364,Cellulose,Bradyrhizobium sp. S23321,"10-Year
+Bare"
+GH5_46,1-Year Bare,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.432282128549197,0.104473408528034,0.208946817056069,2.06886199387856,Cellulose,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+GH5_46,1-Year Grassland,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella mallensis,Acidobacteria,0.499081190745731,0.239469304234258,0.478938608468517,1.04205671023604,Cellulose,Granulicella mallensis,"10-Year
+Bare"
+GH5_46,1-Year Grassland,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella tundricola,Acidobacteria,0.203497366869481,0.0859856005305239,0.171971201061048,1.18332235638246,Cellulose,Granulicella tundricola,"10-Year
+Bare"
+GH5_46,1-Year Grassland,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter paludis,Bacteroidetes,0.165435223329655,0.125481777701767,0.250963555403535,0.659200189699434,Cellulose,Mucilaginibacter paludis,"10-Year
+Bare"
+GH5_46,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.311203314869254,0.0864733984736643,0.172946796947329,1.79941647004906,Cellulose,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+GH5_46,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. S23321,Proteobacteria,1.02445833280988,0.574378388580026,1.14875677716005,0.891797422377376,Cellulose,Bradyrhizobium sp. S23321,"10-Year
+Bare"
+GH5_46,1-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.509924943973137,0.226533800686191,0.453067601372381,1.1254941700279,Cellulose,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+GH5_46,10-Year Grassland,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella mallensis,Acidobacteria,0.157000860730744,0.0805047792520345,0.13943836791664,1.12595165216365,Cellulose,Granulicella mallensis,"10-Year
+Bare"
+GH5_46,10-Year Grassland,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella;Granulicella tundricola,Acidobacteria,0.199775409551482,0.129123419429506,0.223648322898931,0.893256908712715,Cellulose,Granulicella tundricola,"10-Year
+Bare"
+GH5_46,10-Year Grassland,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;Mucilaginibacter paludis,Bacteroidetes,0.060521934409364,0.060521934409364,0.10482706536937,0.577350269189626,Cellulose,Mucilaginibacter paludis,"10-Year
+Bare"
+GH5_46,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium erythrophlei,Proteobacteria,0.368524638433332,0.0309864418422732,0.0536700916165953,6.86648051704425,Cellulose,Bradyrhizobium erythrophlei,"10-Year
+Bare"
+GH5_46,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium sp. S23321,Proteobacteria,1.19556093357182,0.485443111150926,0.840812132697709,1.42191208603986,Cellulose,Bradyrhizobium sp. S23321,"10-Year
+Bare"
+GH5_46,10-Year Grassland,Bacteria;Proteobacteria;Alphaproteobacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Proteobacteria,0.248214172525604,0.0867665920707178,0.150284145866086,1.65163245327808,Cellulose,Unassigned Alphaproteobacteria,"10-Year
+Bare"
+GH6,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium haemophilum,Actinobacteria,1.11478114985041,0.178702773092557,0.309522282449762,3.60161840700871,Cellulose,Mycobacterium haemophilum,"1-Year
+Bare"
+GH6,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,1.70721788027989,0.336521104458925,0.582871650742052,2.92897737967944,Cellulose,Mycobacterium sp. JS623,"1-Year
+Bare"
+GH6,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;Cellulosimicrobium;Cellulosimicrobium cellulans,Actinobacteria,0,0,0,0.01,Cellulose,Cellulosimicrobium cellulans,"1-Year
+Bare"
+GH6,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Kitasatospora;Kitasatospora aureofaciens,Actinobacteria,0.154422476875963,0.105343714972536,0.182460666590486,0.846332964586543,Cellulose,Kitasatospora aureofaciens,"1-Year
+Bare"
+GH6,10-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;UNASSIGNED,Actinobacteria,0.280251384863881,0.162302247297406,0.281115738501715,0.996925274826513,Cellulose,Unassigned Streptomyces,"1-Year
+Bare"
+GH6,10-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,1.67079167381452,0.321453150318461,0.55677318860465,3.00084793594633,Cellulose,Unassigned Bacteria,"1-Year
+Bare"
+GH6,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium haemophilum,Actinobacteria,2.74125107236298,0.88675559207805,1.7735111841561,1.54566325651189,Cellulose,Mycobacterium haemophilum,"1-Year
+Bare"
+GH6,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,1.28860706936634,0.184393629393229,0.368787258786459,3.49417459162409,Cellulose,Mycobacterium sp. JS623,"1-Year
+Bare"
+GH6,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;Cellulosimicrobium;Cellulosimicrobium cellulans,Actinobacteria,0.411702802231372,0.169584666844367,0.339169333688734,1.21385621086016,Cellulose,Cellulosimicrobium cellulans,"1-Year
+Bare"
+GH6,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Kitasatospora;Kitasatospora aureofaciens,Actinobacteria,0.469339774449618,0.237034217926379,0.474068435852758,0.990025361223145,Cellulose,Kitasatospora aureofaciens,"1-Year
+Bare"
+GH6,1-Year Bare,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;UNASSIGNED,Actinobacteria,1.25810529417218,0.213226655239739,0.426453310479477,2.95015952099809,Cellulose,Unassigned Streptomyces,"1-Year
+Bare"
+GH6,1-Year Bare,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,1.39740841905863,0.192477983974101,0.384955967948203,3.63004742206427,Cellulose,Unassigned Bacteria,"1-Year
+Bare"
+GH6,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium haemophilum,Actinobacteria,1.8139979208591,0.430281344987718,0.860562689975437,2.10792071512057,Cellulose,Mycobacterium haemophilum,"1-Year
+Bare"
+GH6,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,2.04017493747921,0.514243725813058,1.02848745162612,1.98366536631394,Cellulose,Mycobacterium sp. JS623,"1-Year
+Bare"
+GH6,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;Cellulosimicrobium;Cellulosimicrobium cellulans,Actinobacteria,0.284871729679835,0.147091440408426,0.294182880816852,0.968349106137097,Cellulose,Cellulosimicrobium cellulans,"1-Year
+Bare"
+GH6,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Kitasatospora;Kitasatospora aureofaciens,Actinobacteria,0.295366768324941,0.0646928349356553,0.129385669871311,2.28283988960074,Cellulose,Kitasatospora aureofaciens,"1-Year
+Bare"
+GH6,1-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;UNASSIGNED,Actinobacteria,0.506644131861703,0.118340595836622,0.236681191673244,2.140618476187,Cellulose,Unassigned Streptomyces,"1-Year
+Bare"
+GH6,1-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,1.10689222883964,0.126596843669289,0.253193687338578,4.37172127186358,Cellulose,Unassigned Bacteria,"1-Year
+Bare"
+GH6,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium haemophilum,Actinobacteria,1.93130370785085,0.12796529292862,0.221642388957805,8.71360265034195,Cellulose,Mycobacterium haemophilum,"1-Year
+Bare"
+GH6,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. JS623,Actinobacteria,1.6395757782301,0.191006966851311,0.330833771186095,4.95588999983873,Cellulose,Mycobacterium sp. JS623,"1-Year
+Bare"
+GH6,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;Cellulosimicrobium;Cellulosimicrobium cellulans,Actinobacteria,0.218668606782512,0.147920011272415,0.256204974979984,0.853490869174558,Cellulose,Cellulosimicrobium cellulans,"1-Year
+Bare"
+GH6,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Kitasatospora;Kitasatospora aureofaciens,Actinobacteria,0.379032751839783,0.125028120884933,0.216555057747567,1.75028353427613,Cellulose,Kitasatospora aureofaciens,"1-Year
+Bare"
+GH6,10-Year Grassland,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;UNASSIGNED,Actinobacteria,0.0429834626361727,0.0429834626361727,0.0744495411710895,0.577350269189626,Cellulose,Unassigned Streptomyces,"1-Year
+Bare"
+GH6,10-Year Grassland,Bacteria;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED;UNASSIGNED,Unassigned,0.842757189682316,0.0910785441568717,0.157752665959107,5.34226908026249,Cellulose,Unassigned Bacteria,"1-Year
+Bare"
