@@ -596,6 +596,9 @@ tctls[Phylum == 'UNASSIGNED', Phylum := "Unassigned"]
 
 fwrite(tctls, "CAZy_taxonomy_2022/Outfiles/Taxonomy_CAZy_links.csv")
 
+# EDIT 2025/00/22: wrap the CAZy names
+tctls[, CAZyme := gsub("\\|", "\n|", CAZyme)]
+
 pb_ts <- ggplot(tctls, aes(x = Treatment, y = Taxonomy
                            , size = CPM
                            , colour = Treatment
@@ -668,12 +671,16 @@ pb_ts_f <- pb_ts + theme(panel.grid = element_line(linewidth = 0.01)
 
 pb_ts_f
 
-tiff(filename = "Figures_2024/Review_updates/Figure_4_Gene_abundances_and_origins.tiff"
+# tiff(filename = "Figures_2024/Review_updates/Figure_4_Gene_abundances_and_origins.tiff"
+#      , res = 600
+#      , units = "in"
+#      , width = 8.3, height = 11.7
+#      );pb_ts_f;dev.off() 
+tiff(filename = "Figures_environ_microb/Figure_4_Gene_abundances_and_origins.tiff"
      , res = 600
      , units = "in"
      , width = 8.3, height = 11.7
-     );pb_ts_f;dev.off() 
-
+);pb_ts_f;dev.off()
 
 pb_f
 #|pg_f
