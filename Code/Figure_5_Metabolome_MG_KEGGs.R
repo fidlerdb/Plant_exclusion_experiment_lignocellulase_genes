@@ -1,11 +1,260 @@
-##### Setup #####
-rm(list = ls())
+rm(list=ls())
+getwd()
 
 library(vegan)
-
+library(data.table)
 library(devtools)
 source_gist("https://gist.github.com/robiwangriff/79633a738b128e64226bf58381232da7")
+
+
+#####METABOLOME
+metab<-read.csv("Metabolomics/Cleaned Data/Metabolome_Blackout_Raw.csv", row.names=1,check.names=F)
+metab<-t(metab[, 6:ncol(metab)]
+)
+metab.tax<-data.frame(id = paste0("X",1:ncol(metab))
+                      , metab = colnames(metab)
+                      , stringsAsFactors = FALSE
+)
+rownames(metab.tax) <- paste0("X", 1:ncol(metab))
+colnames(metab) <- paste0("X", 1:ncol(metab)) # Rename all metabolites to be X1-X...
+
+# Look at metabolome species matrix
+metab[, 1:5]
+metab.tax[1:5,]
+
+
+#read wider metabolite info (KEGG ids etc)
+metab_tax2 <- read.csv("C:/Users/bspa44/OneDrive - Bangor University/Blackout_David_Nov_24/Metabolomics/Metabolome_Blackout_tax.csv"
+                       , stringsAsFactors = FALSE)
+
+metab_tax2[1:5,]
+
+# This file is missing some metabolites
+metab.tax$metab[!metab.tax$metab %in% metab_tax2$BinBase.name]
+
+# Let's get this info manually
+mt2_add <- data.frame(BinBase.name = c("xylulose"
+                                       , "tagatose"
+                                       , "parabanic acid"
+                                       , "oleamide"
+                                       #, "isoheptadecanoic acid"
+                                       #, "hydroxycarbamate"
+                                       , "acetophenone"
+                                       #, "6-deoxyglucitol"
+)
+, KEGG = c('C00310'
+           , 'C00795'
+           , 'C11116'
+           , 'C19670'
+           #, 
+           #, 
+           , 'C07113'
+           #,
+)
+)
+
+metab_tax2 <- data.table::rbindlist(list(metab_tax2, mt2_add)
+                                    , use.names = TRUE, fill = TRUE)
+
+# Remove compounds with no KEGG ID
+nokegg <- c("isoheptadecanoic acid", "hydroxycarbamate", "6-deoxyglucitol")
+metab.tax <- metab.tax[!metab.tax$metab %in% nokegg,]
+metab <- metab[, colnames(metab) %in% metab.tax$id]
+
+#get higher level class
+library(omu)
+metab_tax2<- assign_hierarchy(count_data = metab_tax2, keep_unknowns = TRUE, identifier = "KEGG")
+metab_tax2[] <- lapply(metab_tax2, function(x) if(is.factor(x)) as.character(x) else x)
+metab.tax<-merge(metab.tax, metab_tax2,by.x="metab", by.y="BinBase.name") # Add in class/subclass info about chemicals
+library(stringr)
+
+# Sort by numeric part after 'X'
+metab.tax<- metab.tax[order(as.numeric(str_extract(metab.tax$id, "\\d+"))), ]
+rownames(metab.tax)<-metab.tax$id
+###
+##analyses
+
+#nmds -- hum
+
+trt <- c("bare_old","bare_old","bare_old"
+         , "control_old","control_old","control_old"
+         ,"bare_new","bare_new","bare_new","bare_new"
+         , "control_new","control_new","control_new","control_new"
+)
+mod6<-metaMDS(decostand(metab,"log"))
+plot(mod6,"species")
+text(mod6,"species")
+plot(mod6,"sites")
+ordispider(mod6,trt,label=T)
+
+#envfit
+
+#Group vars
+#change NA to unclassified
+metab.tax$Subclass_1 <- as.character(metab.tax$Subclass_1)        # Convert factor to character
+metab.tax$Subclass_1[is.na(metab.tax$Subclass_1)] <- "unclassified"
+metab.tax$Subclass_1<-factor(metab.tax$Subclass_1)
+
+# Sum at the Subclass1 level
+colnames(metab) == rownames(metab.tax)
+ncol(metab)
+nrow(metab.tax)
+
+mr <- rownames(metab.tax)[!colnames(metab) %in% rownames(metab.tax)]
+metab.tax[mr,]
+
+
+metab.tax[duplicated(rownames(metab.tax)),]
+
+agg1<-aggreg8(spc = metab, ann = metab.tax, fac = "Subclass_1")
+
+
+
+ef<-envfit(mod6,agg1)
+plot(mod6,"sites")
+ordispider(mod6,trt,label=T)
+plot(ef,p.max=0.05)
+
+
+library(ggplot2)
+library(ggrepel)
+
+# Create the ordination plot with ggrepel to avoid label overlap # not finished this yet!
+df <- data.frame(x = mod6$points[, 1], 
+                 y = mod6$points[, 2], 
+                 label = trt)
+
+ggplot(df, aes(x = x, y = y, label = label)) +
+  geom_point() +
+  geom_text_repel(size = 3) +
+  theme_minimal()
+
+trt2<-c("bare","bare","bare"
+        , "control","control","control"
+        , "bare","bare","bare","bare"
+        , "control","control","control","control")
+
+
+
+
 library(labdsv)
+
+min(metab[!is.na(metab)])
+
+
+iv2 <- indval(decostand(metab,"total"), trt2)
+inds2 <- indies2df_v2(indvals= iv2, taxa = metab.tax, "id", return.alltax = TRUE)
+inds2_f <- inds2[, c("metab", "Class", "Subclass_1", "Subclass_2", "group_name", "indval", "pvalue")]
+
+nrow(inds2_f[!is.na(inds2_f$pvalue),])
+
+inds_tot_c <- 176
+inds_grass_p <- 29 #- grassland
+inds_bare_p <- 184 #bare
+
+inds_tot_c + inds_grass_p
+
+# Summarise rows by group
+i2f <- data.table(inds2_f)
+i2f[!is.na(pvalue), .N, by = group_name]
+
+i2f[, Class := gsub(" ", "\n", Class)]
+i2f[!is.na(pvalue)
+    , .N, keyby = .(Class, Subclass_1, group_name)] %>%
+  ggplot(., aes(x = Subclass_1, y = N
+                , fill = group_name)) +
+  geom_col(position = position_dodge(0.9), width = 0.5) +
+  facet_grid(. ~ Class, scales = 'free_x', space = 'free') +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1)) +
+  scale_y_log10()
+
+#### Total ####
+set.seed(20250926);iv2 <- indval(decostand(metab,"total"), trt2)
+inds2 <- indies2df_v2(indvals= iv2, taxa = metab.tax, "id", return.alltax = TRUE)
+inds2_f <- inds2[, c("metab", "Class", "Subclass_1", "Subclass_2", "group_name", "indval", "pvalue")]
+
+# Output the full list
+i2f_w <- data.table(inds2_f)
+setnames(i2f_w, old = c('metab', 'group_name'), new = c('Metabolite', 'Treatment'))
+i2f_w[!is.na(Treatment), Treatment := ifelse(Treatment == 'bare', yes = 'Bare', no = 'Grassland')]
+# Order everything by the chemicals
+
+# Replace NA with ""
+for (j in names(i2f_w)[1:5]){
+  set(i2f_w,which(is.na(i2f_w[[j]])), j, "")
+}
+
+# Put NA last.
+i2f_w[, Class := factor(Class, levels = c("Carbohydrates"
+                                          , "Inorganic compounds"
+                                          , "Lipids"
+                                          , "Nucleic acids"
+                                          , "Organic acids"
+                                          , "Peptides"
+                                          , "Phytochemical compounds"
+                                          , "Vitamins and Cofactors"
+                                          , "")
+)
+]
+setkeyv(i2f_w, c("Class", "Subclass_1", "Subclass_2", "Metabolite", "Treatment")
+        , physical = TRUE)
+# Tidy
+i2f_w[Subclass_1 == 'unclassified', Subclass_1 := ""]
+i2f_w[Subclass_1 == 'none', Subclass_1 := ""]
+i2f_w[Subclass_2 == 'none', Subclass_2 := ""]
+i2f_w[, indval := round(indval, 3)]
+
+# Write
+#fwrite(i2f_w, "C:/Users/bspa44/OneDrive - Bangor University/Laptop/Documents/Blackout Plots/Blackout_R_2/Figures_environ_microb/Table_making/Metabolites_indvals.csv")
+
+# Summarise rows by group
+i2f <- data.table(inds2_f)
+i2f[!is.na(pvalue), .N, by = group_name]
+
+i2f[, Class := gsub(" ", "\n", Class)]
+i2f[!is.na(pvalue)
+    , .N, keyby = .(Class, Subclass_1, group_name)] %>%
+  ggplot(., aes(x = Subclass_1, y = N
+                , fill = group_name)) +
+  geom_col(position = position_dodge(0.9), width = 0.5) +
+  facet_grid(. ~ Class, scales = 'free_x', space = 'free') +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1)) +
+  scale_y_log10()
+
+# Numbers by group and treatment
+i2f[!is.na(pvalue)
+    , .N, keyby = .(Class, Subclass_1, group_name)] 
+
+# Numbers by treatment
+i2f[!is.na(pvalue), .N, by = group_name]
+
+##### Grassland indicators by group ####
+i2f[!is.na(pvalue) & group_name == 'control', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Oligosaccharides', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Monosaccharides' & group_name == 'control', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Amino acids' & group_name == 'control', ]
+i2f[!is.na(pvalue) & Class == 'Lipids' & group_name == 'control', ]
+
+
+##### Bare indicators by group ####
+unique(i2f[!is.na(pvalue) & group_name == 'bare', .(Class, Subclass_1, Subclass_2)])
+
+i2f[!is.na(pvalue) & Subclass_1 == 'Monosaccharides' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Amines' & group_name == 'bare', ]
+#i2f[!is.na(pvalue) & Subclass_1 == 'Amino acids' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Aromatic acids' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Carboxylic acids' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Fatty acyls' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Bases' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & Subclass_1 == 'Vitamins' & group_name == 'bare', ]
+i2f[!is.na(pvalue) & 
+      ! grepl("^[0-9]+$", metab) & 
+      Subclass_1 == "unclassified" &
+      group_name == 'bare',]
+
+
+
+#### NMDS ####
 
 source("Functions/stat_chull.R")
 
@@ -14,73 +263,23 @@ BlackoutPalette <- c('#7b3294'
                      ,'#a6dba0'
                      ,'#008837')
 
-sample_cols <- c('b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'b7'
-                 , 'c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7')
-Treatment <- factor(c(rep("bare_old", 3), rep("bare_new", 4)
-                      , rep("control_old", 3), rep("control_new", 4))
+sample_cols <- c('b1', 'b2', 'b3'
+                 , 'c1', 'c2', 'c3'
+                 , 'b4', 'b5', 'b6', 'b7'
+                 , 'c4', 'c5', 'c6', 'c7')
+Treatment <- factor(c(rep("bare_old", 3), rep("control_old", 3)
+                      , rep("bare_new", 4), rep("control_new", 4))
                     , levels = c("bare_old", "bare_new", "control_new", "control_old"))
 
 Treatment_labs <- c("10-Year\nBare", "1-Year\nBare", "1-Year\nGrassland", "10-Year\nGrassland")
 
-trt<-c("bare_old","bare_old","bare_old","bare_new",
-       "bare_new","bare_new","bare_new",
-       "control_old","control_old","control_old",
-       "control_new","control_new","control_new","control_new")
+trt<-c("bare_old","bare_old","bare_old"
+       ,"control_old","control_old","control_old"
+       ,"bare_new","bare_new","bare_new","bare_new"
+       , "control_new","control_new","control_new","control_new")
 
-##### Data import and cleaning #####
 
-base_path <- "C:/Users/bspa44/OneDrive - Bangor University/Blackout_David_Nov_24/"
-metabolome_path <- paste0(base_path, "Metabolomics/")
 
-metab<-read.csv(paste0(metabolome_path, "Metabolome_Blackout_Raw.csv"), row.names=1,check.names=F)
-metab<-t(metab)
-metab.tax<-data.frame(id=paste0("X",1:ncol(metab)),metab=colnames(metab),stringsAsFactors=FALSE)
-rownames(metab.tax)<-paste0("X",1:ncol(metab))
-colnames(metab)<-paste0("X",1:ncol(metab))
-
-#read wider metabolite info (KEGG ids etc)
-metab_tax2<-read.csv(paste0(metabolome_path, "Metabolome_Blackout_tax.csv"),stringsAsFactors=FALSE)
-#get higher level class
-library(omu)
-metab_tax2<- assign_hierarchy(count_data =metab_tax2, keep_unknowns = TRUE, identifier = "KEGG")
-metab_tax2[] <- lapply(metab_tax2, function(x) if(is.factor(x)) as.character(x) else x)
-metab.tax<-merge(metab.tax,metab_tax2,by.x="metab", by.y="BinBase.name")
-library(stringr)
-# Sort by numeric part after 'X'
-metab.tax<- metab.tax[order(as.numeric(str_extract(metab.tax$id, "\\d+"))), ]
-rownames(metab.tax)<-metab.tax$id
-###
-##analyses
-
-#nmds
-#mod6<-metaMDS(decostand(metab,"log"))
-
-# Make sure we are comparing like with like--maybe not necessary but just in case.
-# Doesn't really change outcome
-mod6<-metaMDS(decostand(decostand(metab, "total"),"log"))
-plot(mod6,"species")
-text(mod6,"species")
-plot(mod6,"sites")
-ordispider(mod6,trt,label=T)
-
-#Group vars
-#change NA to unclassified
-
-metab.tax$Subclass_1 <- as.character(metab.tax$Subclass_1)        # Convert factor to character
-metab.tax$Subclass_1[is.na(metab.tax$Subclass_1)] <- "unclassified"
-metab.tax$Subclass_1<-factor(metab.tax$Subclass_1)
-
-# David edit 2024-12-12. Removing "none" as a compound class
-metab.tax_dt <- as.data.table(metab.tax)
-metab.tax_dt[Subclass_1 == 'none', Subclass_1 := Class]
-#metab.tax_dt[Subclass_1 == 'none',]
-
-metab.tax_dt_df <- as.data.frame(metab.tax_dt, row.names = row.names(metab.tax))
-agg1 <- aggreg8(metab, metab.tax_dt_df ,"Subclass_1")
-
-agg1
-
-##### NMDS #####
 
 ef<-envfit(mod6,agg1)
 plot(mod6,"sites")
